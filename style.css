@@ -9,11 +9,12 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
-    padding-left: 10%;
-    height: 300px;
+
+
 
 }
 .link-buton{
@@ -25,7 +26,16 @@ section{
     width: 10%;
     border-radius: 5px;
 }
-.first-sect{
-    background-image: url(/top-banner.png);
+.top-banner{
+    background-image: url(/imgaes/top-banner.png);
     background-repeat: no-repeat;
+}
+.img{
+    padding-left: 0;
+    align-content: center;
+}
+.dream-big{
+    background-image: url(/imgaes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
