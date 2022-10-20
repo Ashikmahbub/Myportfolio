@@ -29,7 +29,7 @@ h1{
     border-radius: 5px;
 }
 .top-banner{
-    background-image: url(/imgaes/top-banner.png);
+    background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
 }
 .img{
@@ -37,7 +37,7 @@ h1{
     align-content: center;
 }
 .dream-big{
-    background-image: url(/imgaes/dream-bg.png);
+    background-image: url(/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -45,7 +45,7 @@ h1{
     color: orange;
 }
 .experience-area{
- background-image: url(/imgaes/exp-bg.png);
+ background-image: url(/images/exp-bg.png);
  background-position: right;
  background-repeat: no-repeat;
     
